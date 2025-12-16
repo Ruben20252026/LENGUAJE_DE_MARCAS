@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss SYSTEM "rss.dtd">
+<rss version="2.0">
+    <channel>
+        <title>Lenguaje de Marcas</title>
+        <link>https://www.google.com/</link>
+        <description>El blog de noticias de LGMSI</description>
+        <item>
+            <title>LGSMI la última semana que viene</title>
+            <link>https://www.google.com/</link>
+            <description>Últimos días de LGSMI</description>
+            <pubDate>Tue, 16 Dec 2025 7:30:00 UTC</pubDate>
+        </item>
+    </channel>
+</rss>
